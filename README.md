@@ -1,3 +1,5 @@
+
+
 This is My Final Year BE Project (Graduation Batch 2022)
 
 Title of Project - IOT Based Air & Sound Pollution Monitoring System.
@@ -34,3 +36,17 @@ Software Requirements:
 1) Raspbian OS
 2) Python IDE
 3) programming Language : Python.
+
+![Screenshot (134)](https://user-images.githubusercontent.com/95771731/169895461-2435bec3-842a-48c3-a736-b26918f012b3.png)
+![Screenshot (136)](https://user-images.githubusercontent.com/95771731/169895642-e085469a-1b60-494a-9926-b2908380efe5.png)
+
+CONCLUSION:
+The smart way to monitor environment and an efficient, low cost embedded system is 
+presented with different models in this paper. In the proposed architecture functions of 
+different modules were discussed. The noise and air pollution monitoring system with 
+Internet of Things (IoT) concept experimentally tested for monitoring two parameters. It also 
+sent the sensor parameters to the cloud (Google Spread Sheets).This data will be helpful for 
+future analysis and it can be easily shared to other end users. This model can be further 
+expanded to monitor the developing cities and industrial zones for pollution monitoring. To 
+protect the public health from pollution, this model provides an efficient and low cost 
+solution for continuous monitoring of environment.
