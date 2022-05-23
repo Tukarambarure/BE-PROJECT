@@ -41,6 +41,8 @@ Software Requirements:
 ![Screenshot (134)](https://user-images.githubusercontent.com/95771731/169895461-2435bec3-842a-48c3-a736-b26918f012b3.png)
 ![Screenshot (136)](https://user-images.githubusercontent.com/95771731/169895642-e085469a-1b60-494a-9926-b2908380efe5.png)
 
+
+
 CONCLUSION:
 The smart way to monitor environment and an efficient, low cost embedded system is 
 presented with different models in this paper. In the proposed architecture functions of 
@@ -51,5 +53,8 @@ future analysis and it can be easily shared to other end users. This model can b
 expanded to monitor the developing cities and industrial zones for pollution monitoring. To 
 protect the public health from pollution, this model provides an efficient and low cost 
 solution for continuous monitoring of environment.
+
+
+
 
 ![Paper Publish Certificate](https://user-images.githubusercontent.com/95771731/169895970-f3cea228-e343-4497-aec9-f72a815beb6a.jpeg)
