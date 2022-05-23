@@ -1,5 +1,6 @@
 
 
+
 This is My Final Year BE Project (Graduation Batch 2022)
 
 Title of Project - IOT Based Air & Sound Pollution Monitoring System.
@@ -50,3 +51,5 @@ future analysis and it can be easily shared to other end users. This model can b
 expanded to monitor the developing cities and industrial zones for pollution monitoring. To 
 protect the public health from pollution, this model provides an efficient and low cost 
 solution for continuous monitoring of environment.
+
+![Paper Publish Certificate](https://user-images.githubusercontent.com/95771731/169895970-f3cea228-e343-4497-aec9-f72a815beb6a.jpeg)
